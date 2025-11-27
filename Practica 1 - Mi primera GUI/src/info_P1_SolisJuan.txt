@@ -1,0 +1,13 @@
+Que es lbl.pack(pady=10) ?? , para que sirve, y que otros elementos 
+(ademas de lbl, label se pueden agregar a la ventana de tkinter)
+Es una instruccion en Tinker,que es una biblioteca de Python 
+que se usa para crear interfaces graficas y colocar el widget lbl
+
+Que otros elementos (argumentos) puede tener root.title("Mi primera GUI")
+Puede tener otros elementos como para cambiar el color del texto, del fondo, icono de la ventana, etc. Ejemplo:
+root.configure(bg="lightblue")
+
+Explique para que es y como usar
+ tk.Entry(root) 
+btn = tk.Button(root, text="Saludar", command=saludar)
+crea un botón con el texto Saludar que, al presionarse, ejecutará la función saludar
