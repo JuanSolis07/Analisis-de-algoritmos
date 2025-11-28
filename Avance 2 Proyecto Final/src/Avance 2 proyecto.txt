@@ -1,0 +1,11 @@
+Equipo: Los No-GPU
+Integrantes:
+Jorge Hernandez Reyes
+Braulio Hurtado Escoto
+Juan Pablo Solis Regin
+
+Baulio - Modificacion al codigo para aceptar cargar diccionarios en formato txt
+Jorge - Creacion de Sprints de Scrums para continuar el desarrollo del proyecto
+Juan Pablo - Investigacion de fuentes para la busqueda de diccionarios definidos en la web
+
+Se busca implementar elegir desde la GUI diccionarios en formato txt y desde la web para averiguar contraseñas
